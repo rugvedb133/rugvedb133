@@ -1,0 +1,16 @@
+# theme: jekyll-theme-architect
+# remote_theme: pages-themes/architect@v0.2.0
+# remote_theme: abhinavs/moonwalk
+remote_theme: piazzai/cvless
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: RugvedB133
+description: Public Profile README
+show_downloads: false
+
+# url: "https://rugvedb133.github.io"
+# baseurl: "/rugvedb133"
+
+url: "https://rugvedb133.github.io/rugvedb133"
+baseurl: ""
